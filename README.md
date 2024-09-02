@@ -56,5 +56,15 @@ php hitung_usia.php
 
 Masukkan Tanggal Lahir: Saat diminta, masukkan tanggal lahir Anda dalam format YYYY-MM-DD (misalnya, 1990-05-15).
 
+File yang telah siap dicoba bisa langsung di unduh dengan perintah:
+```
+pkg install git
+```
+kemudian
+```
+git clone https://github.com/yzzztv/php-hitung-tanggal-lahir.git
+```
+
+
 Skrip ini akan menghitung usia Anda dan menampilkan pesan yang lucu sesuai dengan usia yang telah dihitung.
 Anda bebas mengubah atau memodifikasi script karena script ini 100% opensource
